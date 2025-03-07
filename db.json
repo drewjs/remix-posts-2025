@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post title",
+      "content": "Post content",
+      "author": "Author name",
+      "createdAt": "2023-06-15T10:00:00Z"
+    }
+  ]
+}
